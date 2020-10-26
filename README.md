@@ -24,10 +24,10 @@ Hello, I am Someone#6969 and I'm a Discord Bot developer. I am a Student from Au
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/someone6969discord/someone6969discord">
+<a href="https://github.com/someone-6969/someone-6969">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someone6969discord&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/someone6969discord/someone6969discord">
+<a href="https://github.com/someone-6969/someone-6969">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=someone6969discord&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Someone's GitHub Stats" />
 </a>
 
@@ -35,21 +35,18 @@ Hello, I am Someone#6969 and I'm a Discord Bot developer. I am a Student from Au
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: https://imgur.com/XgskOGz (Discord)
+[2.1]: http://i.imgur.com/0o48UoR.png (Github)
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
+[1.2]: https://imgur.com/XgskOGz (Discord)
+[2.2]: http://i.imgur.com/9I6NRUm.png (Github)
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://discord.com/profile/679944178079367179
+[2]: https://github.com/someone-6969
 
 
 <!-- Resources -->
