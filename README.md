@@ -2,8 +2,8 @@
 
 # Hey everyone! 👋
 
-Hello, I am Someone#6969 and I'm a Discord Bot developer.
-I am a Student from Australia, living in New South Wales. 
+Hello, I am Someone#6969 and I'm a Discord Bot developer.  
+I am a Student from Australia, living in New South Wales.  
 You can find me on [Discord](https://discord.com/users/679944178079367179) :D.
 
 ## 🔧 Software and Languages
