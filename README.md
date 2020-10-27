@@ -27,7 +27,7 @@ You can find me on [Discord](https://discord.com/users/679944178079367179) and [
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=someone-6969&repo=levi-bot" />
 </a>
 <a href="https://github.com/someone-6969/someone-6969">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=someone-6969&someone-6969.github.io" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=someone-6969&repo=someone-6969.github.io" />
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
