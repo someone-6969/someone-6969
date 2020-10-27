@@ -2,7 +2,7 @@
 
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 
-# Hey everyone! <img src="https://raw.githubusercontent.com/someone-6969/someone-6969/master/wave.gif" width="30px">
+# Hey everyone! 👋
 
 Hello, I am Someone#6969 and I'm a Discord Bot developer. I am a Student from Australia, living in New South Wales. You can find me on [Discord](https://discord.com/users/679944178079367179).
 
@@ -30,24 +30,6 @@ Hello, I am Someone#6969 and I'm a Discord Bot developer. I am a Student from Au
 <a href="https://github.com/someone-6969/someone-6969">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=someone6969discord&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Someone's GitHub Stats" />
 </a>
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: https://imgur.com/XgskOGz (Discord)
-[2.1]: http://i.imgur.com/0o48UoR.png (Github)
-
-<!-- icons without padding -->
-
-[1.2]: https://imgur.com/XgskOGz (Discord)
-[2.2]: http://i.imgur.com/9I6NRUm.png (Github)
-
-<!-- links to your social media accounts -->
-
-[1]: https://discord.com/profile/679944178079367179
-[2]: https://github.com/someone-6969
-
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
