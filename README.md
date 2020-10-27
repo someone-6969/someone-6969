@@ -2,7 +2,7 @@
 
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey everyone! <img src="https://raw.githubusercontent.com/someone-6969/someone-6969/master/wave.gif" width="30px">
 
 Hello, I am Someone#6969 and I'm a Discord Bot developer. I am a Student from Australia, living in New South Wales. You can find me on [Discord](https://discord.com/users/679944178079367179).
 
