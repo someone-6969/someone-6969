@@ -18,7 +18,7 @@ Hello, I am Someone#6969 and I'm a Discord Bot developer. I am a Student from Au
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someone-6969&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/someone-6969/someone-6969">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=someone-6969&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Someone's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=someone-6969&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&line_height=30" alt="Someone's GitHub Stats" />
 </a>
 
 <!-- Resources -->
