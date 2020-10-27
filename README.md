@@ -21,6 +21,8 @@ You can find me on [Discord](https://discord.com/users/679944178079367179) and [
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=someone-6969&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&line_height=33" alt="Someone's GitHub Stats" />
 </a>
 
+## &#x1f4c8; Featured Repositories
+
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
